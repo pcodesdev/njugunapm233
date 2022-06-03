@@ -1,11 +1,19 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="300"/>
-  
+   
   ----
+  <div align="center">
+    <a href="https://njugunapm233.github.io/">
+    <img src="https://user-images.githubusercontent.com/44283776/171945801-a866679c-da70-4624-b58f-91cf93282ef7.png" width="100" alt="Portfolio"/>
+    </a>
+  </div>
+
   
   <div id="badges">
+    
   <a href="https://www.linkedin.com/in/peter-njuguna-b3531614a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a> 
   <a href="https://twitter.com/PragmaticDev_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
