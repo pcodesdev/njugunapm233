@@ -1,3 +1,5 @@
+---
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="300"/>
    
@@ -39,7 +41,7 @@
 
   - :seedling: Exploring Technical Content.
 
-  - :zap: In my free time, I solve coding challenges and read tech articles.
+  - :zap: In my free time, I solve coding challenges and reading tech articles.
 
   - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-peter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-njuguna-b3531614a/)
   
