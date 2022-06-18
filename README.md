@@ -4,26 +4,26 @@
   <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="300"/>
    
   ----
-  <div align="center">
-    <a href="https://njugunapm233.github.io/">
-    <img src="https://user-images.githubusercontent.com/44283776/171945801-a866679c-da70-4624-b58f-91cf93282ef7.png" width="100" alt="Portfolio"/>
-    </a>
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://njugunapm233.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/peter-njuguna-b3531614a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/PragmaticDev_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+
+</p>
   </div>
 
   
-  <div id="badges">
-    
-  <a href="https://www.linkedin.com/in/peter-njuguna-b3531614a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a> 
-  <a href="https://twitter.com/PragmaticDev_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=njugunapm233&style=plastic&color=brightgreen" alt=
+  
 </div>
-    <img src="https://komarev.com/ghpvc/?username=njugunapm233&style=plastic&color=brightgreen" alt="Peter"/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=1E1824&lines=I+am+Peter+Njuguna;I+am+an+IT+Professional+with;More+than+4+years+experience+in:;Technical+Training;Software+Development;I+am+also+a+cloud+computing;enthusiast)](https://git.io/typing-svg)
+    
     
  <h2>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 </div>
@@ -74,6 +74,11 @@
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=njugunapm233&show_icons=true&theme=radical)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njugunapm233&langs_count=6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=njugunapm233&show_icons=true&theme=radical))
+  
+  ----
+  ### 🏆 Github Profile Trophy
+  [![trophy](https://github-profile-trophy.vercel.app/?username=njugunapm233)](https://github.com/ryo-ma/github-profile-trophy)
   
   
 
