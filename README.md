@@ -83,7 +83,7 @@
   ### 🃏 Joke of the Day 🔃
   ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
   ### ⚔️ Qoute of the Day 🔃
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/piyushsuthar/github-readme-quotes)
   
   
 
