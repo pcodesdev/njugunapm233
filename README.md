@@ -1,7 +1,8 @@
 ---
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="500"/>
+  
+  <img src="https://media.giphy.com/media/4H5jdBI1AEvS2xlra6/giphy-downsized-large.gif" width="500"/>
   
 ----
   
