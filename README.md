@@ -2,7 +2,8 @@
 
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/4H5jdBI1AEvS2xlra6/giphy-downsized-large.gif" width="500"/>
+  
+  <img src="https://media.giphy.com/media/hWjpzwxtdbDZ32Mh1e/giphy.gif" width="500"/>
   
 ----
   
