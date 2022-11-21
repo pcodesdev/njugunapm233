@@ -78,6 +78,9 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njugunapm233&langs_count=6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=njugunapm233&show_icons=true&theme=radical))
   
+  ### Daily Dev
+  <a href="https://app.daily.dev/pcodesdev"><img src="https://api.daily.dev/devcards/31f64729500f46528e0367aa49c35717.png?r=p4l" width="400" alt="Peter Njuguna's Dev Card"/></a>
+  
   ----
   ### 🏆 Github Profile Trophy
   [![trophy](https://github-profile-trophy.vercel.app/?username=njugunapm233)](https://github.com/ryo-ma/github-profile-trophy)
