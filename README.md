@@ -79,7 +79,7 @@
   ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=njugunapm233&show_icons=true&theme=radical))
   
   ### Daily Dev
-  <a href="https://app.daily.dev/pcodesdev"><img src="https://api.daily.dev/devcards/31f64729500f46528e0367aa49c35717.png?r=p4l" width="400" alt="Peter Njuguna's Dev Card"/></a>
+  <a href="https://app.daily.dev/pcodesdev"><img src="https://api.daily.dev/devcards/31f64729500f46528e0367aa49c35717.png?r=wc9" width="400" alt="Peter Njuguna's Dev Card"/></a>
   
   ----
   ### 🏆 Github Profile Trophy
